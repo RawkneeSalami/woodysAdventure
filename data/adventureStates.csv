@@ -1,0 +1,12 @@
+ID,StateName,ClassName,PNGFilename,CollisionFilename
+0,Map1,PNGRoom,assets/a1.png,assets/a1_cl.csv
+1,Map2,PNGRoom,assets/a2.png,assets/a2_cl.csv
+2,Map3,PNGRoom,assets/a3.png,assets/a3_cl.csv
+3,Map4,PNGRoom,assets/a4.png,assets/a4_cl.csv
+4,Map5,PNGRoom,assets/a5.png,assets/a5_cl.csv
+5,Map6,PNGRoom,assets/a6.png,assets/a6_cl.csv
+6,Map7,PNGRoom,assets/a7.png,assets/a7_cl.csv
+7,Map8,PNGRoom,assets/a8.png,assets/a8_cl.csv
+8,Map9,PNGRoom,assets/a9.png,assets/a9_cl.csv
+9,Map10,PNGRoom,assets/a10.png,assets/a10_cl.csv
+10,Map11,PNGRoom,assets/a11.png,assets/a11_cl.csv
